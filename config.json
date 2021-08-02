@@ -1,0 +1,13 @@
+{
+    "access_token_url": "JA.VUNmGAAAAAAAEgASAAAABwAIAAwAAAAAAAAAEgAAAAAAAAH4AAAAFAAAAAAADgAQAAQAAAAIAAwAAAAOAAAAzAAAABwAAAAEAAAAEAAAAO4kp2UDO-4vZ9jXf6iJ_pCnAAAAtbGnqMAFzpRfp5YKoqYcn46sDJkAO9GJgSpXGGWGkPM5Kw6d7Eb-IQxYQAXH9eUtNCINF0Ezu2_sGFe91prjl1qwNqTtrkR5vBUt4OqWQ4qtcZvezQlz8ZU-AUi46TUSGQJee1U_IYWLbtRh3hG-8HQl9AsoUbLyUq5Y3Ao8uI9DHtcaH-1_4-mBnvtIz6momeZNDMt5GuxGrRCoyYzS1BSd7zQTOYwADAAAALWKiMkXCh6npiTymCQAAABiMGQ4NTgwMy0zOGEwLTQyYjMtODA2ZS03YTRjZjhlMTk2ZWU",
+    "authorize_url": "https://login.uber.com/oauth/v2/authorize?response_type=code&client_id=No0NkKS0PmTSuzIWovcUsxNCrNYE-hb4&redirect_uri=http://localhost:7000/submit",
+    "base_url": "https://login.uber.com/",
+    "scopes": ["profile", "history_lite"],
+    "name": "Sample app",
+    "base_uber_url": "https://api.uber.com/v1/",
+    "base_uber_url_v1_1" : "https://api.uber.com/v1.1/",
+    "start_latitude": "37.781955",
+    "start_longitude":  "-122.402367",
+    "end_latitude": "37.744352",
+    "end_longitude": "-122.416743"
+}

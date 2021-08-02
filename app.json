@@ -1,0 +1,14 @@
+{
+  "name": "Uber API Python/Flask sample",
+  "logo": "http://blogcdn.uber.com/wp-content/uploads/2011/12/New-Logo-Vertical-Dark.jpg",
+  "repository": "https://github.com/uber/Python-Sample-Application",
+  "keywords": ["uber", "python", "flask"],
+  "env": {
+    "UBER_CLIENT_ID": {
+      "description": "No0NkKS0PmTSuzIWovcUsxNCrNYE-hb4"
+    },
+    "UBER_CLIENT_SECRET": {
+      "description": "AE5h6YPec_EmebpzuX7zpktFBzNP6fPpuuOiX8CS"
+    }
+  }
+}
